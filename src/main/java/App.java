@@ -24,6 +24,7 @@ public class App {
     System.out.println("1: Romantic Dancing, 2: Hip & Hop Music, 3: Cultural Dancing, 4: Jazz, 5: DJ  6: None");
     String entInput = myConsole.readLine();
     int ent = Integer.parseInt(entInput);
+//add coupon price reduction message here
     System.out.println("Question 5: Do you have a coupon?");
     System.out.println("Please respond with the appropriate NUMBER");
     System.out.println("1: Yes, 2: No");
